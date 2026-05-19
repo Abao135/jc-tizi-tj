@@ -210,7 +210,7 @@
 ---
 
 <span id="trumpyun"></span>
-### 3. 特朗普云 Trumpyun - 中转 + 专线 + 高性价比
+### 3. 特朗普云 Trumpyun - 中转 + 专线 + 住宅 高性价比
 
 **官网入口**：
 - [特朗普云官网](https://go.clashshome.com/trumpyun)，[备用地址](  https://trumpyun.xyz/#/register?code=ZnngCcmM)
