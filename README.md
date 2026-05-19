@@ -258,6 +258,8 @@
 | 500G 旗舰版 | ¥55/月 | 500GB | 1Gbps | 顶级额度，视频下载无忧 |
 | 线路高级定制 | ¥888/一次性 | 私有网络 | 独享带宽 | 企业/高端定制 |
 
+[点击查看特朗普云测速](https://jichangtizi.com/zhulijichang/trumpyun-review/)
+
 <p align="center">
   <img src="images/trumpyun.png" width="100%" alt="特朗普云">
 </p>
