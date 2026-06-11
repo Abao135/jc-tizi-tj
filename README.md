@@ -501,7 +501,7 @@
 ### 2. 奈云 - 香港自有机房 + Trojan 全流媒体解锁 + 长期有效流量包
 
 **官网入口**：
-- [奈云官网](https://www.v2ny.com/)
+- [奈云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://www.nyaff.cc?path=register&code=1wIegJF2)
 
 **优惠码**：无（官方已为特惠年付，Basic 套餐 ¥168/年 直接享）
 
