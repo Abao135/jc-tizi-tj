@@ -280,10 +280,10 @@
 |------|------|
 | 开业时间 | 2025年中 |
 | 老板肉身 | 境外 |
-| 入口与过境 | 国内、多个境外 |
+| 入口与过境 | 全部境外直连 |
 | 节点地区 | 台湾、日本、韩国、新加坡、美国、加拿大、英国、德国、越南等 40+ 国家及地区 |
-| 落地 ISP | Vietnam Posts（越南电信）、Chunghwa Telecom（台湾HiNet）、Leaseweb、Daou Tech（韩国）、Light Node 等多家 |
-| 节点数量 | 140+（可用率 62%） |
+| 落地 ISP | Chunghwa Telecom Co., Ltd.、Kamatera, Inc.、Hong Kong Telecommunications (HKT) Limited Mass Internet、Leaseweb Japan K.K、Leaseweb USA, Inc.、Leaseweb Singapore Pte. Ltd.、PCCW IMSBiz、INETACADEMY |
+| 节点数量 | 190+（可用率 62%） |
 | 协议 | VLESS + Hysteria2 |
 | 设备限制 | 5-20，Max/Infinity 套餐物理隔离 |
 | AI流媒体解锁 | 全解锁 |
