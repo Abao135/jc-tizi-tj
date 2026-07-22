@@ -69,7 +69,6 @@
   - [3. 快雷go](#kuaileigo)
   - [4. 糖果云](#tangguo)
   - [5. 万达云](#wandayun)
-  - [6. 悦通](#yuetong)
 - [二、备用机场（按需选择）](#backup)
   - [1. Mitce](#mitce)
   - [2. SSRDOG](#ssrdog)
@@ -79,6 +78,7 @@
   - [6. 宝可梦加速器](#baokemeng)
   - [7. 渔云Cloufisher](#yuyun)
   - [8. 魔戒](#mojie)
+  - [9. 悦通](#yuetong)
 - [三、优惠码汇总](#unlimited)
 - [四、选择策略](#choose)
 - [FAQ 常见问题](#faq)
@@ -368,66 +368,6 @@
 
 <p align="center">
   <img src="images/wandayun.png" width="100%" alt="万达云">
-</p>
-
----
-
-<span id="yuetong"></span>
-### 6. 悦通 - 多档位套餐 + 不限时大流量包 + 高性价比
-**官网入口**：
-- [悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX)
-
-**优惠码**：`YUE618`已过期
-
-> **注意**：晚高峰略卡，各地区和网络有所不一样，建议先弄一个月试试。或者十几块钱买个500G不限时作为备用，很划算。对稳定性有要求的建议买25/月及以上的套餐有专属节点。
-
-**机场档案**
-| 项目 | 详情 |
-|------|------|
-| 开业时间 | 2025年中 |
-| 老板肉身 | 境外 |
-| 入口与过境 | 全部境外直连 |
-| 节点地区 | 台湾、日本、韩国、新加坡、美国、加拿大、英国、德国、越南等 40+ 国家及地区 |
-| 落地 ISP | Chunghwa Telecom Co., Ltd.、Kamatera, Inc.、Hong Kong Telecommunications (HKT) Limited Mass Internet、Leaseweb Japan K.K、Leaseweb USA, Inc.、Leaseweb Singapore Pte. Ltd.、PCCW IMSBiz、INETACADEMY |
-| 节点数量 | 190+（可用率 62%） |
-| 协议 | VLESS + Hysteria2 |
-| 设备限制 | 5-20，Max/Infinity 套餐物理隔离 |
-| AI流媒体解锁 | 全解锁 |
-| 审计情况 | 无审计 |
-| 付款方式 | 支付宝 / 微信 |
-| TG 频道 | [点击加入](https://t.me/yue_to) |
-| 一键客户端 | Windows / macOS / Android / Linux |
-
-**核心优势**：
-- ✅ ¥12.9/月起，多档位套餐从轻量到企业级全覆盖
-- ✅ 不限时流量包，无合约用完即止
-- ✅ 群内签到送额外流量，长期用户越用越划算
-- ✅ 最高 99T 超大容量套餐
-- ✅ Max/Infinity 套餐物理隔离，更稳定
-
-**缺点**：
-- 普通套餐严格限制设备数 5 个
-- 电信线路晚高峰表现不佳，部分节点偶有断流现象
-
-**我的使用体验**：群内签到可送额外流量，长期用户越用越划算！
-
-**推荐套餐**：
-
-| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
-|---------|------|------|------|------|
-| Mini·迷你年付版 | ¥49.9/年 | 200GB/月 | 200Mbps | 入门首选 |
-| Air·轻量旗舰版 | ¥12.9/月 | 1000GB | 300Mbps |新增套餐，月付最佳入门 |
-| Pro·进阶专业版 | ¥25/月 | 2000GB | 500Mbps | 含专属节点，重度用户首选 |
-| Max·企业至尊版 | ¥39/月 | 6000GB | 1000Mbps | 含专属节点，团队/企业；物理隔离 |
-| Travel·差旅便携包 | ¥19.9/一次性 | 500GB | 200Mbps | 永久有效 |
-| Stack·囤货加油包 | ¥79/一次性 | 2000GB | 500Mbps | 永久有效 |
-| Giga·巨量买断包 | ¥328/一次性 | 99T | 800Mbps | 永久有效 |
-| Infinity·终极无限包 | ¥520/一次性 | 不限 | 不限 | 含专属节点 |
-
-[点击查看悦通测速](https://jichangtizi.com/zhulijichang/yuetong-review/)
-
-<p align="center">
-  <img src="images/yuetong.png" width="100%" alt="悦通">
 </p>
 
 ---
@@ -869,6 +809,65 @@
 
 ---
 
+
+<span id="yuetong"></span>
+### 6. 悦通 - 多档位套餐 + 不限时大流量包 + 高性价比
+**官网入口**：
+- [悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX)
+
+**优惠码**：`YUE618`已过期
+
+> **注意**：晚高峰略卡，各地区和网络有所不一样，建议先弄一个月试试。或者十几块钱买个500G不限时作为备用，很划算。对稳定性有要求的建议买25/月及以上的套餐有专属节点。
+
+**机场档案**
+| 项目 | 详情 |
+|------|------|
+| 开业时间 | 2025年中 |
+| 老板肉身 | 境外 |
+| 入口与过境 | 全部境外直连 |
+| 节点地区 | 台湾、日本、韩国、新加坡、美国、加拿大、英国、德国、越南等 40+ 国家及地区 |
+| 落地 ISP | Open Data Network、Chunghwa Telecom Co., Ltd.、Kamatera, Inc.、Leaseweb Japan K.K、PCCW IMSBiz、Datacamp Limited、Melbikomas UAB、Leaseweb UK Limited |
+| 节点数量 | 70+（可用率 （47%）） |
+| 协议 | VLESS + Hysteria2 |
+| 设备限制 | 5-20 |
+| AI流媒体解锁 | 解锁 |
+| 审计情况 | 无审计 |
+| 付款方式 | 支付宝 / 微信 |
+| TG 频道 | [点击加入](https://t.me/yue_to) |
+| 一键客户端 | Windows / macOS / Android / Linux |
+
+**核心优势**：
+- ✅ ¥12.9/月起，多档位套餐从轻量到企业级全覆盖
+- ✅ 不限时流量包，无合约用完即止
+- ✅ 群内签到送额外流量，长期用户越用越划算
+- ✅ 最高 99T 超大容量套餐
+
+**缺点**：
+- 普通套餐严格限制设备数 5 个
+- 电信线路晚高峰表现不佳，部分节点偶有断流现象
+
+**我的使用体验**：群内签到可送额外流量，长期用户越用越划算！一件客户端做的比较好，价格低量大适合备用。
+
+**推荐套餐**：
+
+| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
+|---------|------|------|------|------|
+| Mini·迷你年付版 | ¥49.9/年 | 200GB/月 | 200Mbps | 入门首选 |
+| Air·轻量旗舰版 | ¥12.9/月 | 1000GB | 300Mbps |新增套餐，月付最佳入门 |
+| Pro·进阶专业版 | ¥25/月 | 2000GB | 500Mbps | 含专属节点，重度用户首选 |
+| Max·企业至尊版 | ¥39/月 | 6000GB | 1000Mbps | 含专属节点，团队/企业；物理隔离 |
+| Travel·差旅便携包 | ¥19.9/一次性 | 500GB | 200Mbps | 永久有效 |
+| Stack·囤货加油包 | ¥79/一次性 | 2000GB | 500Mbps | 永久有效 |
+| Giga·巨量买断包 | ¥328/一次性 | 99T | 800Mbps | 永久有效 |
+| Infinity·终极无限包 | ¥520/一次性 | 不限 | 不限 | 含专属节点 |
+
+[点击查看悦通测速](https://jichangtizi.com/zhulijichang/yuetong-review/)
+
+<p align="center">
+  <img src="images/yuetong.png" width="100%" alt="悦通">
+</p>
+
+---
 <span id="unlimited"></span>
 ## 三、优惠码汇总
 
